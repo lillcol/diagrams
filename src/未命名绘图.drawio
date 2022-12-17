@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T08:31:50.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.7.3" etag="rQJY_AF4P-zMY6J5Z9Mo" type="github"><diagram id="gk3cleNpnmwwoLgxjUNC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-17T08:40:26.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.7.3" etag="ni2GebvTTtpKmrZxtrQa" type="github">
+  <diagram id="_-UgdHPy3DLZ9YSsUcb9" name="第 1 页">
+    <mxGraphModel dx="1434" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GBAzb-mn1tss-nipXTmw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" edge="1" parent="1" source="GBAzb-mn1tss-nipXTmw-1" target="GBAzb-mn1tss-nipXTmw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-6" value="需要更新云上链接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" vertex="1" connectable="0" parent="GBAzb-mn1tss-nipXTmw-5">
+          <mxGeometry x="-0.1333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-1" value="发布切换公告" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;labelBackgroundColor=none;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" edge="1" parent="1" source="GBAzb-mn1tss-nipXTmw-2" target="GBAzb-mn1tss-nipXTmw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-10" value="需要替换为云上信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" vertex="1" connectable="0" parent="GBAzb-mn1tss-nipXTmw-8">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-2" value="灰度生产dremel服务" style="rounded=1;whiteSpace=wrap;html=1;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" edge="1" parent="1" source="GBAzb-mn1tss-nipXTmw-7" target="GBAzb-mn1tss-nipXTmw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-7" value="替换模板库云上信息" style="rounded=1;whiteSpace=wrap;html=1;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" edge="1" parent="1" source="GBAzb-mn1tss-nipXTmw-11" target="GBAzb-mn1tss-nipXTmw-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="410" />
+              <mxPoint x="410" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-15" value="回滚" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" vertex="1" connectable="0" parent="GBAzb-mn1tss-nipXTmw-13">
+          <mxGeometry x="0.7182" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" edge="1" parent="1" source="GBAzb-mn1tss-nipXTmw-11" target="GBAzb-mn1tss-nipXTmw-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="410" />
+              <mxPoint x="420" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-16" value="回滚" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" vertex="1" connectable="0" parent="GBAzb-mn1tss-nipXTmw-14">
+          <mxGeometry x="0.8349" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" edge="1" parent="1" target="GBAzb-mn1tss-nipXTmw-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="430" y="410" />
+              <mxPoint x="430" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-18" value="切换失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" vertex="1" connectable="0" parent="GBAzb-mn1tss-nipXTmw-17">
+          <mxGeometry x="0.8622" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-19" value="失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" vertex="1" connectable="0" parent="GBAzb-mn1tss-nipXTmw-17">
+          <mxGeometry x="-0.8122" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" edge="1" parent="1" source="GBAzb-mn1tss-nipXTmw-11" target="GBAzb-mn1tss-nipXTmw-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-11" value="测试模板&lt;br&gt;查询-导出功能" style="rounded=1;whiteSpace=wrap;html=1;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GBAzb-mn1tss-nipXTmw-20" value="切换成功" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontFamily=Verdana;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
