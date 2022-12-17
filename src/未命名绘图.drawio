@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T08:41:18.637Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Hosmrp6R5ZfY0CDxWqll" version="20.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-17T09:51:47.970Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="vP6RtuOfM2qKgX6Z0NcY" version="20.7.4" type="github">
   <diagram id="_-UgdHPy3DLZ9YSsUcb9" name="第 1 页">
     <mxGraphModel dx="1434" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,8 +12,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GBAzb-mn1tss-nipXTmw-1" value="发布切换公告" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;labelBackgroundColor=none;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="GBAzb-mn1tss-nipXTmw-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;labelBackgroundColor=none;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="239" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GBAzb-mn1tss-nipXTmw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" parent="1" source="GBAzb-mn1tss-nipXTmw-2" target="GBAzb-mn1tss-nipXTmw-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -24,19 +24,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GBAzb-mn1tss-nipXTmw-2" value="灰度生产dremel服务" style="rounded=1;whiteSpace=wrap;html=1;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GBAzb-mn1tss-nipXTmw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" parent="1" source="GBAzb-mn1tss-nipXTmw-7" target="GBAzb-mn1tss-nipXTmw-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GBAzb-mn1tss-nipXTmw-7" value="替换模板库云上信息" style="rounded=1;whiteSpace=wrap;html=1;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GBAzb-mn1tss-nipXTmw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" parent="1" source="GBAzb-mn1tss-nipXTmw-11" target="GBAzb-mn1tss-nipXTmw-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="410" />
-              <mxPoint x="410" y="290" />
+              <mxPoint x="410" y="600" />
+              <mxPoint x="410" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -47,10 +47,10 @@
         </mxCell>
         <mxCell id="GBAzb-mn1tss-nipXTmw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" parent="1" source="GBAzb-mn1tss-nipXTmw-11" target="GBAzb-mn1tss-nipXTmw-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="200" as="targetPoint" />
+            <mxPoint x="410" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="410" />
-              <mxPoint x="420" y="195" />
+              <mxPoint x="420" y="600" />
+              <mxPoint x="420" y="385" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -61,16 +61,16 @@
         </mxCell>
         <mxCell id="GBAzb-mn1tss-nipXTmw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" parent="1" target="GBAzb-mn1tss-nipXTmw-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="410" as="sourcePoint" />
+            <mxPoint x="360" y="600" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="430" y="410" />
-              <mxPoint x="430" y="60" />
+              <mxPoint x="430" y="600" />
+              <mxPoint x="430" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GBAzb-mn1tss-nipXTmw-18" value="切换失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" parent="GBAzb-mn1tss-nipXTmw-17" vertex="1" connectable="0">
+        <mxCell id="GBAzb-mn1tss-nipXTmw-18" value="回滚" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" parent="GBAzb-mn1tss-nipXTmw-17" vertex="1" connectable="0">
           <mxGeometry x="0.8622" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GBAzb-mn1tss-nipXTmw-19" value="失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" parent="GBAzb-mn1tss-nipXTmw-17" vertex="1" connectable="0">
@@ -82,10 +82,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GBAzb-mn1tss-nipXTmw-11" value="测试模板&lt;br&gt;查询-导出功能" style="rounded=1;whiteSpace=wrap;html=1;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GBAzb-mn1tss-nipXTmw-20" value="切换成功" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontFamily=Verdana;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="505" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="695" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw8giEME_EH66Epu51ow-1" value="更新生产nacos配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="299" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw8giEME_EH66Epu51ow-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vw8giEME_EH66Epu51ow-2" target="GBAzb-mn1tss-nipXTmw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw8giEME_EH66Epu51ow-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;comic=1;" edge="1" parent="1" source="Vw8giEME_EH66Epu51ow-2" target="Vw8giEME_EH66Epu51ow-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw8giEME_EH66Epu51ow-2" value="发布切换公告" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;labelBackgroundColor=none;snapToPoint=0;fixDash=0;metaEdit=0;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw8giEME_EH66Epu51ow-6" value="时间+切换影响&lt;br&gt;切换后之前查询的结果无法查询&lt;br&gt;需要再次查询" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="95" width="190" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
