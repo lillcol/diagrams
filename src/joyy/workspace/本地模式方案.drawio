@@ -1,9 +1,147 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T03:24:29.973Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="21.6.7" etag="RZttIn8cloL7-vUbXI8b" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T06:30:18.733Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="20GtyDggkL6iA8Crp-u6" version="21.6.7" type="github">
   <diagram name="第 1 页" id="Z6NcLqhWtqir-2_cZ74p">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-12" value="&lt;font face=&quot;Ma Shan Zheng&quot; style=&quot;font-size: 20px;&quot;&gt;Local Mode&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="630" y="42.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-5" value="&lt;font size=&quot;1&quot; face=&quot;Dancing Script&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;Quicksql&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="274" y="15" width="140" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KYprJ_yi6zOEU1TB8uRb-7" target="KYprJ_yi6zOEU1TB8uRb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-7" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&quot; face=&quot;Ma Shan Zheng&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;submit to db&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="284" y="228" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KYprJ_yi6zOEU1TB8uRb-10" target="KYprJ_yi6zOEU1TB8uRb-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-10" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Ma Shan Zheng&quot;&gt;&lt;b&gt;Run Ack&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="284" y="747" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KYprJ_yi6zOEU1TB8uRb-17" target="KYprJ_yi6zOEU1TB8uRb-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-28" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Ma Shan Zheng&quot;&gt;False&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KYprJ_yi6zOEU1TB8uRb-23">
+          <mxGeometry x="0.0093" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KYprJ_yi6zOEU1TB8uRb-17" target="KYprJ_yi6zOEU1TB8uRb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-45" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Ma Shan Zheng&quot;&gt;True&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KYprJ_yi6zOEU1TB8uRb-44">
+          <mxGeometry x="0.0047" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-17" value="&lt;font face=&quot;Ma Shan Zheng&quot; style=&quot;font-size: 20px;&quot;&gt;Sechdule Task&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="264" y="290" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KYprJ_yi6zOEU1TB8uRb-22" target="KYprJ_yi6zOEU1TB8uRb-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-22" value="&lt;font face=&quot;Ma Shan Zheng&quot; style=&quot;font-size: 20px;&quot;&gt;Running jobs check&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="640" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KYprJ_yi6zOEU1TB8uRb-24" target="KYprJ_yi6zOEU1TB8uRb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-27" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Ma Shan Zheng&quot;&gt;False&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KYprJ_yi6zOEU1TB8uRb-26">
+          <mxGeometry x="-0.037" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KYprJ_yi6zOEU1TB8uRb-24" target="KYprJ_yi6zOEU1TB8uRb-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-32" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Ma Shan Zheng&quot;&gt;&lt;b&gt;True&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KYprJ_yi6zOEU1TB8uRb-31">
+          <mxGeometry x="-0.24" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-24" value="&lt;font face=&quot;Ma Shan Zheng&quot; style=&quot;font-size: 20px;&quot;&gt;&amp;gt;=jobs threadhold&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KYprJ_yi6zOEU1TB8uRb-30" target="KYprJ_yi6zOEU1TB8uRb-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="537" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-36" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Ma Shan Zheng&quot;&gt;&lt;b&gt;True&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KYprJ_yi6zOEU1TB8uRb-34">
+          <mxGeometry x="-0.1333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.95;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KYprJ_yi6zOEU1TB8uRb-30" target="KYprJ_yi6zOEU1TB8uRb-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-39" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Ma Shan Zheng&quot;&gt;&lt;b&gt;False&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KYprJ_yi6zOEU1TB8uRb-37">
+          <mxGeometry x="-0.3319" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-30" value="&lt;font face=&quot;Ma Shan Zheng&quot; style=&quot;font-size: 20px;&quot;&gt;Prase Sql&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="440" y="470" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KYprJ_yi6zOEU1TB8uRb-33" target="KYprJ_yi6zOEU1TB8uRb-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-43" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Ma Shan Zheng&quot;&gt;True&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KYprJ_yi6zOEU1TB8uRb-42">
+          <mxGeometry x="-0.04" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KYprJ_yi6zOEU1TB8uRb-33" target="KYprJ_yi6zOEU1TB8uRb-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="660" />
+              <mxPoint x="490" y="660" />
+              <mxPoint x="490" y="768" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-58" value="&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&quot; face=&quot;Ma Shan Zheng&quot;&gt;False&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KYprJ_yi6zOEU1TB8uRb-57">
+          <mxGeometry x="-0.3791" y="-3" relative="1" as="geometry">
+            <mxPoint x="-47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-33" value="&lt;font face=&quot;Ma Shan Zheng&quot; style=&quot;font-size: 20px;&quot;&gt;Opt Sql&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="557" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KYprJ_yi6zOEU1TB8uRb-41" target="KYprJ_yi6zOEU1TB8uRb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-47" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&quot; face=&quot;Ma Shan Zheng&quot; style=&quot;font-size: 20px;&quot;&gt;False&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KYprJ_yi6zOEU1TB8uRb-46">
+          <mxGeometry x="0.0359" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KYprJ_yi6zOEU1TB8uRb-41" target="KYprJ_yi6zOEU1TB8uRb-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-52" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Ma Shan Zheng&quot;&gt;True&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KYprJ_yi6zOEU1TB8uRb-51">
+          <mxGeometry x="-0.4931" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-41" value="&lt;font face=&quot;Ma Shan Zheng&quot;&gt;Run Sql&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="640" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-48" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Ma Shan Zheng&quot;&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="867" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KYprJ_yi6zOEU1TB8uRb-54" target="KYprJ_yi6zOEU1TB8uRb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYprJ_yi6zOEU1TB8uRb-54" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Ma Shan Zheng&quot;&gt;Begin&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="304" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
